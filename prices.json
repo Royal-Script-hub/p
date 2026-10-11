@@ -1,0 +1,4718 @@
+{
+  "source": "https://supremevalues.com/mm2",
+  "updatedAt": "2026-10-11T16:11:55.630Z",
+  "itemCount": 940,
+  "categoryCounts": {
+    "godlies": 127,
+    "legendaries": 78,
+    "rares": 128,
+    "uncommons": 178,
+    "commons": 280,
+    "pets": 77,
+    "chromas": 48,
+    "vintages": 10,
+    "ancients": 14
+  },
+  "items": [
+    {
+      "name": "Traveler's Gun",
+      "value": "5,200",
+      "category": "godlies"
+    },
+    {
+      "name": "Evergun",
+      "value": "3,450",
+      "category": "godlies"
+    },
+    {
+      "name": "Evergreen",
+      "value": "2,700",
+      "category": "godlies"
+    },
+    {
+      "name": "Constellation",
+      "value": "2,600",
+      "category": "godlies"
+    },
+    {
+      "name": "Vampire's Gun",
+      "value": "1,900",
+      "category": "godlies"
+    },
+    {
+      "name": "Alienbeam",
+      "value": "1,875",
+      "category": "godlies"
+    },
+    {
+      "name": "Raygun",
+      "value": "1,850",
+      "category": "godlies"
+    },
+    {
+      "name": "Turkey",
+      "value": "1,850",
+      "category": "godlies"
+    },
+    {
+      "name": "Darkshot",
+      "value": "1,800",
+      "category": "godlies"
+    },
+    {
+      "name": "Darksword",
+      "value": "1,775",
+      "category": "godlies"
+    },
+    {
+      "name": "Blossom",
+      "value": "1,300",
+      "category": "godlies"
+    },
+    {
+      "name": "Sakura",
+      "value": "1,290",
+      "category": "godlies"
+    },
+    {
+      "name": "Sunrise",
+      "value": "950",
+      "category": "godlies"
+    },
+    {
+      "name": "Soul",
+      "value": "680",
+      "category": "godlies"
+    },
+    {
+      "name": "Bauble",
+      "value": "675",
+      "category": "godlies"
+    },
+    {
+      "name": "Snowcannon",
+      "value": "675",
+      "category": "godlies"
+    },
+    {
+      "name": "Spirit",
+      "value": "670",
+      "category": "godlies"
+    },
+    {
+      "name": "Sunset",
+      "value": "650",
+      "category": "godlies"
+    },
+    {
+      "name": "Rainbow Gun",
+      "value": "405",
+      "category": "godlies"
+    },
+    {
+      "name": "Xenoknife",
+      "value": "405",
+      "category": "godlies"
+    },
+    {
+      "name": "Xenoshot",
+      "value": "405",
+      "category": "godlies"
+    },
+    {
+      "name": "Flora",
+      "value": "400",
+      "category": "godlies"
+    },
+    {
+      "name": "Rainbow",
+      "value": "400",
+      "category": "godlies"
+    },
+    {
+      "name": "Bloom",
+      "value": "395",
+      "category": "godlies"
+    },
+    {
+      "name": "Batwing",
+      "value": "1,000,000",
+      "category": "godlies"
+    },
+    {
+      "name": "Black Luger",
+      "value": "1,000,000",
+      "category": "godlies"
+    },
+    {
+      "name": "Heart Wand",
+      "value": "340",
+      "category": "godlies"
+    },
+    {
+      "name": "Blizzard",
+      "value": "290",
+      "category": "godlies"
+    },
+    {
+      "name": "Snowstorm",
+      "value": "290",
+      "category": "godlies"
+    },
+    {
+      "name": "Ocean",
+      "value": "245",
+      "category": "godlies"
+    },
+    {
+      "name": "Flowerwood Gun",
+      "value": "240",
+      "category": "godlies"
+    },
+    {
+      "name": "Waves",
+      "value": "240",
+      "category": "godlies"
+    },
+    {
+      "name": "Flowerwood",
+      "value": "235",
+      "category": "godlies"
+    },
+    {
+      "name": "Snow Dagger",
+      "value": "175",
+      "category": "godlies"
+    },
+    {
+      "name": "Icecream",
+      "value": "155",
+      "category": "godlies"
+    },
+    {
+      "name": "Treat",
+      "value": "155",
+      "category": "godlies"
+    },
+    {
+      "name": "Watergun",
+      "value": "155",
+      "category": "godlies"
+    },
+    {
+      "name": "Sweet",
+      "value": "150",
+      "category": "godlies"
+    },
+    {
+      "name": "Borealis",
+      "value": "145",
+      "category": "godlies"
+    },
+    {
+      "name": "Australis",
+      "value": "140",
+      "category": "godlies"
+    },
+    {
+      "name": "Bat",
+      "value": "125",
+      "category": "godlies"
+    },
+    {
+      "name": "Beachy",
+      "value": "85",
+      "category": "godlies"
+    },
+    {
+      "name": "Sands",
+      "value": "85",
+      "category": "godlies"
+    },
+    {
+      "name": "Pearlshine",
+      "value": "80",
+      "category": "godlies"
+    },
+    {
+      "name": "Candy",
+      "value": "80",
+      "category": "godlies"
+    },
+    {
+      "name": "Pearl",
+      "value": "75",
+      "category": "godlies"
+    },
+    {
+      "name": "Heartblade",
+      "value": "65",
+      "category": "godlies"
+    },
+    {
+      "name": "Ornament",
+      "value": "65",
+      "category": "godlies"
+    },
+    {
+      "name": "Phantom",
+      "value": "35",
+      "category": "godlies"
+    },
+    {
+      "name": "Red Luger",
+      "value": "35",
+      "category": "godlies"
+    },
+    {
+      "name": "Spectre",
+      "value": "35",
+      "category": "godlies"
+    },
+    {
+      "name": "Candleflame",
+      "value": "33",
+      "category": "godlies"
+    },
+    {
+      "name": "Darkbringer",
+      "value": "33",
+      "category": "godlies"
+    },
+    {
+      "name": "Elderwood Blade",
+      "value": "33",
+      "category": "godlies"
+    },
+    {
+      "name": "Elderwood Revolver",
+      "value": "33",
+      "category": "godlies"
+    },
+    {
+      "name": "Iceblaster",
+      "value": "33",
+      "category": "godlies"
+    },
+    {
+      "name": "Makeshift",
+      "value": "33",
+      "category": "godlies"
+    },
+    {
+      "name": "Lightbringer",
+      "value": "32",
+      "category": "godlies"
+    },
+    {
+      "name": "Sugar",
+      "value": "32",
+      "category": "godlies"
+    },
+    {
+      "name": "Green Luger",
+      "value": "23",
+      "category": "godlies"
+    },
+    {
+      "name": "Amerilaser",
+      "value": "22",
+      "category": "godlies"
+    },
+    {
+      "name": "Laser",
+      "value": "22",
+      "category": "godlies"
+    },
+    {
+      "name": "Hallowgun",
+      "value": "20",
+      "category": "godlies"
+    },
+    {
+      "name": "Nightblade",
+      "value": "20",
+      "category": "godlies"
+    },
+    {
+      "name": "Shark",
+      "value": "20",
+      "category": "godlies"
+    },
+    {
+      "name": "Icebeam",
+      "value": "18",
+      "category": "godlies"
+    },
+    {
+      "name": "Luger",
+      "value": "18",
+      "category": "godlies"
+    },
+    {
+      "name": "Plasmabeam",
+      "value": "18",
+      "category": "godlies"
+    },
+    {
+      "name": "Swirly Gun",
+      "value": "18",
+      "category": "godlies"
+    },
+    {
+      "name": "Battleaxe II",
+      "value": "17",
+      "category": "godlies"
+    },
+    {
+      "name": "Blaster",
+      "value": "17",
+      "category": "godlies"
+    },
+    {
+      "name": "Ginger Luger",
+      "value": "17",
+      "category": "godlies"
+    },
+    {
+      "name": "Pixel",
+      "value": "17",
+      "category": "godlies"
+    },
+    {
+      "name": "Gemstone",
+      "value": "15",
+      "category": "godlies"
+    },
+    {
+      "name": "Iceflake",
+      "value": "15",
+      "category": "godlies"
+    },
+    {
+      "name": "Old Glory",
+      "value": "15",
+      "category": "godlies"
+    },
+    {
+      "name": "Plasmablade",
+      "value": "15",
+      "category": "godlies"
+    },
+    {
+      "name": "Slasher",
+      "value": "15",
+      "category": "godlies"
+    },
+    {
+      "name": "Vampire's Edge",
+      "value": "15",
+      "category": "godlies"
+    },
+    {
+      "name": "Cookiecane",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Deathshard",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Eternalcane",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Gingerblade",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Jinglegun",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Lugercane",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Minty",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Nebula",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Virtual",
+      "value": "13",
+      "category": "godlies"
+    },
+    {
+      "name": "Battleaxe",
+      "value": "12",
+      "category": "godlies"
+    },
+    {
+      "name": "Gingermint",
+      "value": "12",
+      "category": "godlies"
+    },
+    {
+      "name": "Swirly Blade",
+      "value": "12",
+      "category": "godlies"
+    },
+    {
+      "name": "Chill",
+      "value": "10",
+      "category": "godlies"
+    },
+    {
+      "name": "Clockwork",
+      "value": "10",
+      "category": "godlies"
+    },
+    {
+      "name": "Fang",
+      "value": "10",
+      "category": "godlies"
+    },
+    {
+      "name": "Frostsaber",
+      "value": "10",
+      "category": "godlies"
+    },
+    {
+      "name": "Heat",
+      "value": "10",
+      "category": "godlies"
+    },
+    {
+      "name": "Spider",
+      "value": "10",
+      "category": "godlies"
+    },
+    {
+      "name": "Tides",
+      "value": "10",
+      "category": "godlies"
+    },
+    {
+      "name": "Bioblade",
+      "value": "8",
+      "category": "godlies"
+    },
+    {
+      "name": "Eternal III",
+      "value": "8",
+      "category": "godlies"
+    },
+    {
+      "name": "Eternal IV",
+      "value": "8",
+      "category": "godlies"
+    },
+    {
+      "name": "Hallow's Blade",
+      "value": "8",
+      "category": "godlies"
+    },
+    {
+      "name": "Hallow's Edge",
+      "value": "8",
+      "category": "godlies"
+    },
+    {
+      "name": "Handsaw",
+      "value": "8",
+      "category": "godlies"
+    },
+    {
+      "name": "Boneblade",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Eternal",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Eternal II",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Frostbite",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Ghostblade",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Ice Dragon",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Ice Shard",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Prismatic",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Pumpking",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Saw",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Xmas",
+      "value": "7",
+      "category": "godlies"
+    },
+    {
+      "name": "Eggblade",
+      "value": "5",
+      "category": "godlies"
+    },
+    {
+      "name": "Flames",
+      "value": "5",
+      "category": "godlies"
+    },
+    {
+      "name": "Snowflake",
+      "value": "5",
+      "category": "godlies"
+    },
+    {
+      "name": "Winter's Edge",
+      "value": "5",
+      "category": "godlies"
+    },
+    {
+      "name": "Peppermint",
+      "value": "4",
+      "category": "godlies"
+    },
+    {
+      "name": "Cookieblade",
+      "value": "3",
+      "category": "godlies"
+    },
+    {
+      "name": "Blue Seer",
+      "value": "3",
+      "category": "godlies"
+    },
+    {
+      "name": "Purple Seer",
+      "value": "3",
+      "category": "godlies"
+    },
+    {
+      "name": "Red Seer",
+      "value": "3",
+      "category": "godlies"
+    },
+    {
+      "name": "Seer",
+      "value": "3",
+      "category": "godlies"
+    },
+    {
+      "name": "Orange Seer",
+      "value": "2",
+      "category": "godlies"
+    },
+    {
+      "name": "Yellow Seer",
+      "value": "2",
+      "category": "godlies"
+    },
+    {
+      "name": "Latte (Gun)",
+      "value": "140",
+      "category": "legendaries"
+    },
+    {
+      "name": "Latte (Knife)",
+      "value": "140",
+      "category": "legendaries"
+    },
+    {
+      "name": "Spectral (Knife)",
+      "value": "50",
+      "category": "legendaries"
+    },
+    {
+      "name": "Traveler (Gun)",
+      "value": "50",
+      "category": "legendaries"
+    },
+    {
+      "name": "Aurora (Gun)",
+      "value": "45",
+      "category": "legendaries"
+    },
+    {
+      "name": "Vampire (Gun)",
+      "value": "45",
+      "category": "legendaries"
+    },
+    {
+      "name": "Beach",
+      "value": "35",
+      "category": "legendaries"
+    },
+    {
+      "name": "Cotton Candy",
+      "value": "35",
+      "category": "legendaries"
+    },
+    {
+      "name": "JD",
+      "value": "28",
+      "category": "legendaries"
+    },
+    {
+      "name": "Bunnies",
+      "value": "15",
+      "category": "legendaries"
+    },
+    {
+      "name": "Golden",
+      "value": "10",
+      "category": "legendaries"
+    },
+    {
+      "name": "Shadow",
+      "value": "10",
+      "category": "legendaries"
+    },
+    {
+      "name": "Arctic (Gun)",
+      "value": "10",
+      "category": "legendaries"
+    },
+    {
+      "name": "Cavern (Knife)",
+      "value": "7",
+      "category": "legendaries"
+    },
+    {
+      "name": "Broken",
+      "value": "7",
+      "category": "legendaries"
+    },
+    {
+      "name": "Icedriller",
+      "value": "5",
+      "category": "legendaries"
+    },
+    {
+      "name": "Nightsky",
+      "value": "5",
+      "category": "legendaries"
+    },
+    {
+      "name": "Ghost (Knife)",
+      "value": "5",
+      "category": "legendaries"
+    },
+    {
+      "name": "Ginger (Gun)",
+      "value": "5",
+      "category": "legendaries"
+    },
+    {
+      "name": "Red Scratch",
+      "value": "4",
+      "category": "legendaries"
+    },
+    {
+      "name": "Skulls",
+      "value": "4",
+      "category": "legendaries"
+    },
+    {
+      "name": "Aurora (Knife)",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Spectral (Gun)",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Traveler (Knife)",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Vampire (Knife)",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Witched",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Blue Elite",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Green Elite",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Santa's Magic",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Santa's Spirit",
+      "value": "3",
+      "category": "legendaries"
+    },
+    {
+      "name": "Energized (Gun)",
+      "value": "2",
+      "category": "legendaries"
+    },
+    {
+      "name": "Frostfade (Knife)",
+      "value": "2",
+      "category": "legendaries"
+    },
+    {
+      "name": "Blue Scratch",
+      "value": "2",
+      "category": "legendaries"
+    },
+    {
+      "name": "Ghost (Gun)",
+      "value": "2",
+      "category": "legendaries"
+    },
+    {
+      "name": "Chromatic (Knife)",
+      "value": "1",
+      "category": "legendaries"
+    },
+    {
+      "name": "Icecracker",
+      "value": "1",
+      "category": "legendaries"
+    },
+    {
+      "name": "Red Fire",
+      "value": "1",
+      "category": "legendaries"
+    },
+    {
+      "name": "Cavern (Gun)",
+      "value": "1",
+      "category": "legendaries"
+    },
+    {
+      "name": "Arctic (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Chromatic (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Cursed (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Emerald",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Energized (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Frozen (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Nightstar",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Overseer (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Predator (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Ripper (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Rupture",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Tree (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Tree (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Web",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Green Fire",
+      "value": "x4 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Aquarium (Gun)",
+      "value": "x3 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Cursed (Gun)",
+      "value": "x3 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Frostfade (Gun)",
+      "value": "x3 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Frozen (Knife)",
+      "value": "x3 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Midnight",
+      "value": "x3 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Palms (Gun)",
+      "value": "x3 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Sparkle",
+      "value": "x3 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Bubbles",
+      "value": "x2 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Cupid",
+      "value": "x2 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Ginger (Knife)",
+      "value": "x2 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Ripper (Gun)",
+      "value": "x2 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Aquarium (Knife)",
+      "value": "x2 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Palms (Knife)",
+      "value": "x2 T1 Legendaries",
+      "category": "legendaries"
+    },
+    {
+      "name": "Overseer (Knife)",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Predator (Gun)",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Rune",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Universe",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Viper",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Fade",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Fusion",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Plasmite",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Shiny",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Splash (Knife)",
+      "value": "x4 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Elite",
+      "value": "x3 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Splash (Gun)",
+      "value": "x3 T1 Rares",
+      "category": "legendaries"
+    },
+    {
+      "name": "Cane (Knife)",
+      "value": "525",
+      "category": "rares"
+    },
+    {
+      "name": "Dungeon",
+      "value": "120",
+      "category": "rares"
+    },
+    {
+      "name": "Darkknife",
+      "value": "70",
+      "category": "rares"
+    },
+    {
+      "name": "Silent Night (Knife)",
+      "value": "50",
+      "category": "rares"
+    },
+    {
+      "name": "Makeshift (Knife)",
+      "value": "35",
+      "category": "rares"
+    },
+    {
+      "name": "Zombified",
+      "value": "30",
+      "category": "rares"
+    },
+    {
+      "name": "Starry (Gun)",
+      "value": "22",
+      "category": "rares"
+    },
+    {
+      "name": "Swirl",
+      "value": "20",
+      "category": "rares"
+    },
+    {
+      "name": "Watcher (Gun)",
+      "value": "20",
+      "category": "rares"
+    },
+    {
+      "name": "Magma (Gun)",
+      "value": "13",
+      "category": "rares"
+    },
+    {
+      "name": "Silent Night (Gun)",
+      "value": "12",
+      "category": "rares"
+    },
+    {
+      "name": "Snowflakes",
+      "value": "12",
+      "category": "rares"
+    },
+    {
+      "name": "Cowboy",
+      "value": "10",
+      "category": "rares"
+    },
+    {
+      "name": "Laser",
+      "value": "10",
+      "category": "rares"
+    },
+    {
+      "name": "Phaser",
+      "value": "10",
+      "category": "rares"
+    },
+    {
+      "name": "Prince",
+      "value": "10",
+      "category": "rares"
+    },
+    {
+      "name": "Floral (Knife)",
+      "value": "10",
+      "category": "rares"
+    },
+    {
+      "name": "Ghostfire",
+      "value": "10",
+      "category": "rares"
+    },
+    {
+      "name": "Ghastly (Gun)",
+      "value": "7",
+      "category": "rares"
+    },
+    {
+      "name": "Aurora (Knife)",
+      "value": "7",
+      "category": "rares"
+    },
+    {
+      "name": "Toxic (Knife)",
+      "value": "5",
+      "category": "rares"
+    },
+    {
+      "name": "Wraith (Knife)",
+      "value": "5",
+      "category": "rares"
+    },
+    {
+      "name": "Icicles (Gun)",
+      "value": "3",
+      "category": "rares"
+    },
+    {
+      "name": "Jack",
+      "value": "3",
+      "category": "rares"
+    },
+    {
+      "name": "Snakebite (Knife)",
+      "value": "3",
+      "category": "rares"
+    },
+    {
+      "name": "Vampire (Gun)",
+      "value": "3",
+      "category": "rares"
+    },
+    {
+      "name": "Magma",
+      "value": "3",
+      "category": "rares"
+    },
+    {
+      "name": "Candy Swirl (Gun)",
+      "value": "2",
+      "category": "rares"
+    },
+    {
+      "name": "Sun",
+      "value": "2",
+      "category": "rares"
+    },
+    {
+      "name": "Bats",
+      "value": "2",
+      "category": "rares"
+    },
+    {
+      "name": "Green Marble",
+      "value": "2",
+      "category": "rares"
+    },
+    {
+      "name": "Orange Marble",
+      "value": "2",
+      "category": "rares"
+    },
+    {
+      "name": "Toxic (Gun)",
+      "value": "2",
+      "category": "rares"
+    },
+    {
+      "name": "Darkgun",
+      "value": "1",
+      "category": "rares"
+    },
+    {
+      "name": "Gingerbread",
+      "value": "1",
+      "category": "rares"
+    },
+    {
+      "name": "Monster",
+      "value": "1",
+      "category": "rares"
+    },
+    {
+      "name": "Aurora (Gun)",
+      "value": "1",
+      "category": "rares"
+    },
+    {
+      "name": "Candy Swirl (Knife)",
+      "value": "1",
+      "category": "rares"
+    },
+    {
+      "name": "Snakebite (Gun)",
+      "value": "1",
+      "category": "rares"
+    },
+    {
+      "name": "Vampire (Knife)",
+      "value": "1",
+      "category": "rares"
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Starry (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Cane (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Cane (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Ginger (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Ginger (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Mummy",
+      "value": "x4 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Nuke",
+      "value": "x3 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Cane (Gun)",
+      "value": "x3 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Magma (Knife)",
+      "value": "x3 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Watcher (Knife)",
+      "value": "x3 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Snowy",
+      "value": "x3 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Icicles (Knife)",
+      "value": "x3 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Ghastly (Knife)",
+      "value": "x2 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Ice Camo",
+      "value": "x2 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Logcutter",
+      "value": "x2 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Molten (Gun)",
+      "value": "x2 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Molten (Knife)",
+      "value": "x2 T1 Legendaries",
+      "category": "rares"
+    },
+    {
+      "name": "Butterflies",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Heart",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Neon",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Candleflame (Gun)",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Damp",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Frostflame (Knife)",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Gingerbread (Knife)",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Nether",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Painted (Knife)",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Spitfire",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Storm",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Wraith (Gun)",
+      "value": "x1 T1 Legendary",
+      "category": "rares"
+    },
+    {
+      "name": "Tree (2023)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Tree (Knife)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Bio",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Bones (Knife)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Curse",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Frostflame (Gun)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Ghosts (Gun)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Gingercookie (Knife)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Hologram (Gun)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Pop Art (Knife)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Spearmint (Gun)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Xeno (Knife)",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Pier",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Sunset",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Sunny",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Tropical",
+      "value": "x3 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Hologram (Knife)",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Portal (Knife)",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Tree (Gun)",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Xeno (Gun)",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Kraken",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Ritual",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Snowflake",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Snowglobe",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Floral (Gun)",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Gingercookie (Gun)",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Heartbreak",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Neon",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Pop Art (Gun)",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Robot",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Sharky",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Sleigh",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Spearmint (Knife)",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Spring",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Waves",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Yummy",
+      "value": "x2 T1 Rares",
+      "category": "rares"
+    },
+    {
+      "name": "Black",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Abstract",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Ace",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Bacon",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Galactic",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Galaxy",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Hacker",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Imbued",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "iRevolver",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Korblox",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Krypto",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Musical",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Nightfire",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Nova",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Purple",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Rainbow (Gun)",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Rainbow (Knife)",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Space",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Spectrum",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Squire",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Vortex",
+      "value": "x4 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Deep Sea",
+      "value": "x3 T1 Uncommons",
+      "category": "rares"
+    },
+    {
+      "name": "Bones",
+      "value": "210",
+      "category": "uncommons"
+    },
+    {
+      "name": "Brains",
+      "value": "135",
+      "category": "uncommons"
+    },
+    {
+      "name": "Zombified (Knife)",
+      "value": "120",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gingerbread (Knife)",
+      "value": "85",
+      "category": "uncommons"
+    },
+    {
+      "name": "Sweater (Knife)",
+      "value": "60",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowflake (Knife)",
+      "value": "55",
+      "category": "uncommons"
+    },
+    {
+      "name": "Branches",
+      "value": "50",
+      "category": "uncommons"
+    },
+    {
+      "name": "Mummy (2017)",
+      "value": "25",
+      "category": "uncommons"
+    },
+    {
+      "name": "Skulls",
+      "value": "15",
+      "category": "uncommons"
+    },
+    {
+      "name": "Zombified (Gun)",
+      "value": "15",
+      "category": "uncommons"
+    },
+    {
+      "name": "Void",
+      "value": "12",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wrap (Gun)",
+      "value": "12",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wrap (Knife)",
+      "value": "12",
+      "category": "uncommons"
+    },
+    {
+      "name": "Ghost",
+      "value": "10",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gingerbread (Knife)",
+      "value": "10",
+      "category": "uncommons"
+    },
+    {
+      "name": "Steel (Gun)",
+      "value": "8",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gothic (Gun)",
+      "value": "7",
+      "category": "uncommons"
+    },
+    {
+      "name": "Zombie",
+      "value": "7",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowman (Gun)",
+      "value": "5",
+      "category": "uncommons"
+    },
+    {
+      "name": "Hazard (Gun)",
+      "value": "5",
+      "category": "uncommons"
+    },
+    {
+      "name": "Zombie (Gun)",
+      "value": "5",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "value": "3",
+      "category": "uncommons"
+    },
+    {
+      "name": "Lantern",
+      "value": "3",
+      "category": "uncommons"
+    },
+    {
+      "name": "Webs",
+      "value": "3",
+      "category": "uncommons"
+    },
+    {
+      "name": "Zombie (2023)",
+      "value": "3",
+      "category": "uncommons"
+    },
+    {
+      "name": "Frozen (Gun)",
+      "value": "3",
+      "category": "uncommons"
+    },
+    {
+      "name": "Potion (2017)",
+      "value": "3",
+      "category": "uncommons"
+    },
+    {
+      "name": "Tree (2021)",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Meltdown",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Moonlight",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Stars (Knife)",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Pumpkin Pie",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Lights (Gun)",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Mummy (Gun)",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Potion (Gun)",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Potion (Knife)",
+      "value": "2",
+      "category": "uncommons"
+    },
+    {
+      "name": "Cookie (Knife)",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Frozen (Knife)",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Holly (Gun)",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Lights (Knife)",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Mummy (Knife)",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Zombie (Knife)",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Moons",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Vampire",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wolf",
+      "value": "1",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gothic (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Nutcracker",
+      "value": "x4 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowman (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowman (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowy",
+      "value": "x4 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wrapped (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wrapped (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gifted",
+      "value": "x4 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Steel (Knife)",
+      "value": "x2 T1 Legendaries",
+      "category": "uncommons"
+    },
+    {
+      "name": "Pool Noodle",
+      "value": "x1 T1 Legendary",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowflake (Knife)",
+      "value": "x1 T1 Legendary",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wraiths (Knife)",
+      "value": "x1 T1 Legendary",
+      "category": "uncommons"
+    },
+    {
+      "name": "Mistletoe (Gun)",
+      "value": "x3 T1 Rares",
+      "category": "uncommons"
+    },
+    {
+      "name": "Hazard (Knife)",
+      "value": "x3 T1 Rares",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gingerheart",
+      "value": "x2 T1 Rares",
+      "category": "uncommons"
+    },
+    {
+      "name": "Love (Gun)",
+      "value": "x2 T1 Rares",
+      "category": "uncommons"
+    },
+    {
+      "name": "Rose",
+      "value": "x2 T1 Rares",
+      "category": "uncommons"
+    },
+    {
+      "name": "Canes (Gun)",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Cookie (Gun)",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Fireplace",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Forest",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Marble",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Melon",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Mummy (Knife)",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowflake (Gun)",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowman (Knife)",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wrapped (Gun)",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Frosty",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Holly (Knife)",
+      "value": "x1 T1 Rare",
+      "category": "uncommons"
+    },
+    {
+      "name": "Stockings (Knife)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Brains (2022)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Carrot",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Carrot (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Carrot (Knife)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Clown (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Fall Camo",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Floatie",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Monster",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Moons (2024)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Mummy (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Painted (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowflake (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Sweater (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Witchbrew",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wraiths (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Stars (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Sweater",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Tree (2017)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Checkers",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Decorated",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Eclipse",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Eyes",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Future",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gingerbread (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Glowy",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Lava (Knife)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Meadow",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Mistletoe (Knife)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Night",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Polar Bear",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Pool",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Popsicle",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Pumpkin (2025)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Soda (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Stockings (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Sweater (Knife)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Treats (Gun)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Canes (Knife)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Floral",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Neopolitan",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowman (2023)",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Turtles",
+      "value": "x3 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Ghostly",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Ghosts (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Portal (Gun)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Pumpkin (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Donut",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Abduction",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Blossom",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Bones (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Gingerbread (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Jellyfish",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Lava (Gun)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Leaves",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Ornaments",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Paws",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Popsicle (Gun)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Pumpkin Patch",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Retro",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Snowman (2024)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Soda (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Starry",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Sweater (Gun)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Treats (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Turtle",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Witch's Brew",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wrapped (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wreaths",
+      "value": "x2 T1 Uncommons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Doge",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Sketch",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Adurite (Gun)",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Adurite (Knife)",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Biogun",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Blue",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Bluesteel (Gun)",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Bluesteel (Knife)",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Brush",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Camo (Gun)",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Camo (Knife)",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Caution",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Cheddar",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Cheesy",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Circuit",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Hazmat",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Hive",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Jigsaw",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Lucky",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Marina",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Melon",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Missing",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Paper",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Pink",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Pirate",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Red",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Soda",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Stalker",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Tiger",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wanwood",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Wooden",
+      "value": "x4 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Graffiti",
+      "value": "x3 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "High Tech",
+      "value": "x3 T1 Commons",
+      "category": "uncommons"
+    },
+    {
+      "name": "Glitch1",
+      "value": "65",
+      "category": "commons"
+    },
+    {
+      "name": "Glitch2",
+      "value": "35",
+      "category": "commons"
+    },
+    {
+      "name": "Bats (Knife)",
+      "value": "240",
+      "category": "commons"
+    },
+    {
+      "name": "Gifts (Knife)",
+      "value": "95",
+      "category": "commons"
+    },
+    {
+      "name": "Ghoulish",
+      "value": "90",
+      "category": "commons"
+    },
+    {
+      "name": "Pine (Knife)",
+      "value": "85",
+      "category": "commons"
+    },
+    {
+      "name": "Mummified",
+      "value": "35",
+      "category": "commons"
+    },
+    {
+      "name": "Frosted (Knife)",
+      "value": "30",
+      "category": "commons"
+    },
+    {
+      "name": "Snowflakes (Gun)",
+      "value": "30",
+      "category": "commons"
+    },
+    {
+      "name": "Wrapped (Gun)",
+      "value": "30",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle9",
+      "value": "30",
+      "category": "commons"
+    },
+    {
+      "name": "Snowman (Gun)",
+      "value": "25",
+      "category": "commons"
+    },
+    {
+      "name": "Webbed (Gun)",
+      "value": "25",
+      "category": "commons"
+    },
+    {
+      "name": "CandyCorn (2017)",
+      "value": "25",
+      "category": "commons"
+    },
+    {
+      "name": "Ecto",
+      "value": "25",
+      "category": "commons"
+    },
+    {
+      "name": "Elf (2018)",
+      "value": "20",
+      "category": "commons"
+    },
+    {
+      "name": "Slimy",
+      "value": "20",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle10",
+      "value": "20",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle8",
+      "value": "20",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle7",
+      "value": "18",
+      "category": "commons"
+    },
+    {
+      "name": "RIP",
+      "value": "17",
+      "category": "commons"
+    },
+    {
+      "name": "Coal (Knife)",
+      "value": "15",
+      "category": "commons"
+    },
+    {
+      "name": "Elf (Knife)",
+      "value": "15",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (2019)",
+      "value": "12",
+      "category": "commons"
+    },
+    {
+      "name": "Pumpkin (2019)",
+      "value": "12",
+      "category": "commons"
+    },
+    {
+      "name": "Prism",
+      "value": "12",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle6",
+      "value": "12",
+      "category": "commons"
+    },
+    {
+      "name": "Combat II",
+      "value": "10",
+      "category": "commons"
+    },
+    {
+      "name": "Phantom",
+      "value": "10",
+      "category": "commons"
+    },
+    {
+      "name": "Zombie",
+      "value": "10",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle4",
+      "value": "10",
+      "category": "commons"
+    },
+    {
+      "name": "Skool",
+      "value": "8",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle5",
+      "value": "8",
+      "category": "commons"
+    },
+    {
+      "name": "Tailslide",
+      "value": "7",
+      "category": "commons"
+    },
+    {
+      "name": "Starry",
+      "value": "5",
+      "category": "commons"
+    },
+    {
+      "name": "Alex",
+      "value": "4",
+      "category": "commons"
+    },
+    {
+      "name": "Corl",
+      "value": "4",
+      "category": "commons"
+    },
+    {
+      "name": "Denis",
+      "value": "4",
+      "category": "commons"
+    },
+    {
+      "name": "Euro",
+      "value": "4",
+      "category": "commons"
+    },
+    {
+      "name": "Ollie",
+      "value": "4",
+      "category": "commons"
+    },
+    {
+      "name": "Sidewinder",
+      "value": "4",
+      "category": "commons"
+    },
+    {
+      "name": "Sketchy",
+      "value": "4",
+      "category": "commons"
+    },
+    {
+      "name": "Sub",
+      "value": "4",
+      "category": "commons"
+    },
+    {
+      "name": "Apocalypse (Gun)",
+      "value": "3",
+      "category": "commons"
+    },
+    {
+      "name": "Bats (2020)",
+      "value": "3",
+      "category": "commons"
+    },
+    {
+      "name": "Infected (Gun)",
+      "value": "3",
+      "category": "commons"
+    },
+    {
+      "name": "Ghosty",
+      "value": "3",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle1",
+      "value": "3",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle2",
+      "value": "3",
+      "category": "commons"
+    },
+    {
+      "name": "Sparkle3",
+      "value": "3",
+      "category": "commons"
+    },
+    {
+      "name": "Asteroid",
+      "value": "2",
+      "category": "commons"
+    },
+    {
+      "name": "Grind",
+      "value": "2",
+      "category": "commons"
+    },
+    {
+      "name": "Indy",
+      "value": "2",
+      "category": "commons"
+    },
+    {
+      "name": "Slashed",
+      "value": "1",
+      "category": "commons"
+    },
+    {
+      "name": "Bats (Gun)",
+      "value": "1",
+      "category": "commons"
+    },
+    {
+      "name": "Grave (Gun)",
+      "value": "1",
+      "category": "commons"
+    },
+    {
+      "name": "Grave (Knife)",
+      "value": "1",
+      "category": "commons"
+    },
+    {
+      "name": "Haunted (Gun)",
+      "value": "1",
+      "category": "commons"
+    },
+    {
+      "name": "Haunted (Knife)",
+      "value": "1",
+      "category": "commons"
+    },
+    {
+      "name": "Slime (Gun)",
+      "value": "1",
+      "category": "commons"
+    },
+    {
+      "name": "Slime (Knife)",
+      "value": "1",
+      "category": "commons"
+    },
+    {
+      "name": "Apocalypse (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Frosted (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Infected (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Webbed (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "2015",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Blossom",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Bunny",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Carrot",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Choco",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Egg",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Elf (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Goo",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Hearts",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Ornament",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Ornament1",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Ornament2 (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Ornament2 (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Passion",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Patrick",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Reptile",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Roses",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Santa (Gun)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Santa (Knife)",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Sweetheart",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Tulip",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Valentine",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Bones",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Brains",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Witch",
+      "value": "x4 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Gift Bag (Knife)",
+      "value": "x3 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Hunter",
+      "value": "x3 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Infected",
+      "value": "x3 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Neon",
+      "value": "x3 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "TNL",
+      "value": "x3 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Gifts (Gun)",
+      "value": "x2 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Ribbons",
+      "value": "x2 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Snowflakes (Knife)",
+      "value": "x2 T1 Legendaries",
+      "category": "commons"
+    },
+    {
+      "name": "Pine (Gun)",
+      "value": "x3 T1 Rares",
+      "category": "commons"
+    },
+    {
+      "name": "RB Knife",
+      "value": "x3 T1 Rares",
+      "category": "commons"
+    },
+    {
+      "name": "Cane (Gun)",
+      "value": "x2 T1 Rares",
+      "category": "commons"
+    },
+    {
+      "name": "Etched",
+      "value": "x1 T1 Rare",
+      "category": "commons"
+    },
+    {
+      "name": "Ornaments (Gun)",
+      "value": "x1 T1 Rare",
+      "category": "commons"
+    },
+    {
+      "name": "Coal (Knife)",
+      "value": "x3 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Moon",
+      "value": "x3 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Love (2023)",
+      "value": "x3 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Scarf",
+      "value": "x3 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Candied (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Cracks (Gun)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Darkness (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Snowman (Gun)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Webs",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Fragile (Gun)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Fragile (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Gift Bag (Gun)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Ornaments (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Stockings",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Toy (Knife)",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Trees",
+      "value": "x2 T1 Uncommons",
+      "category": "commons"
+    },
+    {
+      "name": "Aliens",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Coal (Gun)",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Ghosts (2023)",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Pumpkin (2023)",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Vines (Knife)",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Cat",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Coal (Gun)",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Ribbon",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Santa (2023)",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Toy (Gun)",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Penguin",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Reindeer",
+      "value": "x1 T1 Uncommon",
+      "category": "commons"
+    },
+    {
+      "name": "Candied (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candle",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Cane (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Carved (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Coal",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Coal (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Cracks (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Darkness (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Elf (2017)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Frozen (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Present",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Present (2023)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Santa",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Santa (2018)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Snowman (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Watcher (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Wrapped (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Wavy (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Bats (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candles",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Carrots",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Cats",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Chick",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Clownfish (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Gifts (2024)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Haunted (2025)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Hot Chocolate",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Igloo (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "UFOs (Knife)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Wavy (Gun)",
+      "value": "x3 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Carved (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Coal (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Giftwrap",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Haunted",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Watcher (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Eyeball",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Snowman (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Balloons",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Bats (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Bells",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Candy Corn (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Cherries",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Clownfish (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Coconut",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Dolphins",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Duckies",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Elf (2023)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Fall",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Frozen (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Ghosts (2024)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Hearts (2026)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Igloo (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Leaves",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Leaves",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Lights (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Lights (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Peppermint (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Peppermint (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Plaid",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Reindeer",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Sand",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Sandy (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Skyline",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Snowball (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Snowball (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Snowfall",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Spider (2023)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Starfish (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Starfish (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stickers",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Stockings (2024)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Strawberries (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Strawberries (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Striped (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Striped (Knife)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Tourist",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "UFOs (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Vines (Gun)",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Wood",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Xbox",
+      "value": "x2 T1 Commons",
+      "category": "commons"
+    },
+    {
+      "name": "Clown (Gun)",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Clown (Knife)",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "8Bit",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Aqua",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Big Kill",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Bit",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Bleached",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Borders",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Brown",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Cardboard",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Cherry",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Clan",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Cold",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Combat",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Copper",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Eco",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Engraved",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Fallout",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Green",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Hardened",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "HL2",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Ice",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Infiltrator",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Iron",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Juice",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Leaf",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Linked",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Log",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Love (Knife)",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Lovely",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "News",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Oily",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Orange",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Pea",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Sandy",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Shaded",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Slate",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Splat",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Splatter",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Stainless",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Star",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Static",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Whiteout",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Yellow",
+      "value": "x1 T1 Common",
+      "category": "commons"
+    },
+    {
+      "name": "Zombie Dog",
+      "value": "750",
+      "category": "pets"
+    },
+    {
+      "name": "Elf (2019)",
+      "value": "625",
+      "category": "pets"
+    },
+    {
+      "name": "Blue Pumpkin",
+      "value": "220",
+      "category": "pets"
+    },
+    {
+      "name": "Dogey",
+      "value": "150",
+      "category": "pets"
+    },
+    {
+      "name": "Red Pumpkin",
+      "value": "120",
+      "category": "pets"
+    },
+    {
+      "name": "Black Cat",
+      "value": "75",
+      "category": "pets"
+    },
+    {
+      "name": "Green Pumpkin",
+      "value": "60",
+      "category": "pets"
+    },
+    {
+      "name": "Mr. Reindeer",
+      "value": "55",
+      "category": "pets"
+    },
+    {
+      "name": "Piggy",
+      "value": "55",
+      "category": "pets"
+    },
+    {
+      "name": "Pumpkin (2017)",
+      "value": "50",
+      "category": "pets"
+    },
+    {
+      "name": "Elf",
+      "value": "25",
+      "category": "pets"
+    },
+    {
+      "name": "Red Pumpkin",
+      "value": "20",
+      "category": "pets"
+    },
+    {
+      "name": "Mr. Snowman",
+      "value": "20",
+      "category": "pets"
+    },
+    {
+      "name": "Red Pumpkin",
+      "value": "17",
+      "category": "pets"
+    },
+    {
+      "name": "Skully",
+      "value": "15",
+      "category": "pets"
+    },
+    {
+      "name": "Green Pumpkin",
+      "value": "12",
+      "category": "pets"
+    },
+    {
+      "name": "Green Pumpkin",
+      "value": "10",
+      "category": "pets"
+    },
+    {
+      "name": "Blue Pumpkin",
+      "value": "7",
+      "category": "pets"
+    },
+    {
+      "name": "<3",
+      "value": "7",
+      "category": "pets"
+    },
+    {
+      "name": "Shadow Pumpkin",
+      "value": "5",
+      "category": "pets"
+    },
+    {
+      "name": "Nobledragon",
+      "value": "5",
+      "category": "pets"
+    },
+    {
+      "name": "Snowbear",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Mechbug",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "UFO",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Chilly",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Eyeball",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Fairy",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Green Pumpkin",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Jetstream",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Overseer Eye",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Pengy",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Purple Pumpkin",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Red Pumpkin",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Reindeer",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Rudolph",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Seahorsey",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Tankie",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Vampire Bat",
+      "value": "3",
+      "category": "pets"
+    },
+    {
+      "name": "Lil' Alien",
+      "value": "1",
+      "category": "pets"
+    },
+    {
+      "name": "Badger",
+      "value": "1",
+      "category": "pets"
+    },
+    {
+      "name": "Blue Pumpkin",
+      "value": "1",
+      "category": "pets"
+    },
+    {
+      "name": "Carrot Bunny",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Deathspeaker",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Electro",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Frostbird",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Ice Phoenix",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Icey",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Phoenix",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Sammy",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Skelly",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Steambird",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Traveller",
+      "value": "x3 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Pumpkin (2018)",
+      "value": "x2 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Fire Bat",
+      "value": "x2 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Fire Bear",
+      "value": "x2 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Fire Bunny",
+      "value": "x2 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Fire Cat",
+      "value": "x2 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Fire Dog",
+      "value": "x2 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Fire Fox",
+      "value": "x2 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Fire Pig",
+      "value": "x2 T1 Legendaries",
+      "category": "pets"
+    },
+    {
+      "name": "Scarecrow",
+      "value": "x1 T1 Legendary",
+      "category": "pets"
+    },
+    {
+      "name": "Teddy",
+      "value": "x1 T1 Legendary",
+      "category": "pets"
+    },
+    {
+      "name": "Pumpkin (2019)",
+      "value": "x3 T1 Uncommons",
+      "category": "pets"
+    },
+    {
+      "name": "Bat",
+      "value": "x2 T1 Uncommons",
+      "category": "pets"
+    },
+    {
+      "name": "Santa Dog",
+      "value": "x1 T1 Uncommon",
+      "category": "pets"
+    },
+    {
+      "name": "Elitey",
+      "value": "x1 T1 Uncommon",
+      "category": "pets"
+    },
+    {
+      "name": "Bear",
+      "value": "x3 T1 Commons",
+      "category": "pets"
+    },
+    {
+      "name": "Fox",
+      "value": "x2 T1 Commons",
+      "category": "pets"
+    },
+    {
+      "name": "Pig",
+      "value": "x2 T1 Commons",
+      "category": "pets"
+    },
+    {
+      "name": "Pumpkin (2020)",
+      "value": "x2 T1 Commons",
+      "category": "pets"
+    },
+    {
+      "name": "Cat",
+      "value": "x1 T1 Common",
+      "category": "pets"
+    },
+    {
+      "name": "Dog",
+      "value": "x1 T1 Common",
+      "category": "pets"
+    },
+    {
+      "name": "Pumpkin (2021)",
+      "value": "x1 T1 Common",
+      "category": "pets"
+    },
+    {
+      "name": "Santa (2019)",
+      "value": "N/A",
+      "category": "pets"
+    },
+    {
+      "name": "Bunny",
+      "value": "N/A",
+      "category": "pets"
+    },
+    {
+      "name": "Snowman",
+      "value": "N/A",
+      "category": "pets"
+    },
+    {
+      "name": "Ghosty",
+      "value": "N/A",
+      "category": "pets"
+    },
+    {
+      "name": "C. Traveler's Gun",
+      "value": "140,000",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Evergun",
+      "value": "55,000",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Evergreen",
+      "value": "41,000",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Bauble",
+      "value": "29,000",
+      "category": "chromas"
+    },
+    {
+      "name": "C. Constellation",
+      "value": "27,000",
+      "category": "chromas"
+    },
+    {
+      "name": "C. Vampire's Gun",
+      "value": "25,000",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Alienbeam",
+      "value": "24,000",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Raygun",
+      "value": "15,000",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Sunrise",
+      "value": "10,750",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Snowcannon",
+      "value": "7,750",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Sunset",
+      "value": "7,000",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Blizzard",
+      "value": "5,500",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Snowstorm",
+      "value": "4,250",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Heart Wand",
+      "value": "3,500",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Snow Dagger",
+      "value": "2,350",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Watergun",
+      "value": "2,300",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Icecream",
+      "value": "1,850",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Ornament",
+      "value": "1,825",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Treat",
+      "value": "1,775",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Sweet",
+      "value": "1,725",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Sands",
+      "value": "1,200",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Beachy",
+      "value": "1,150",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Darkbringer",
+      "value": "65",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Lightbringer",
+      "value": "60",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Luger",
+      "value": "50",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Candleflame",
+      "value": "40",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Laser",
+      "value": "40",
+      "category": "chromas"
+    },
+    {
+      "name": "C. Elderwood Blade",
+      "value": "37",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Deathshard",
+      "value": "35",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Swirly Gun",
+      "value": "35",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Cookiecane",
+      "value": "32",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Fang",
+      "value": "32",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Gemstone",
+      "value": "32",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Shark",
+      "value": "32",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Slasher",
+      "value": "32",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Heat",
+      "value": "28",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Seer",
+      "value": "28",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Gingerblade",
+      "value": "27",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Tides",
+      "value": "27",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Saw",
+      "value": "23",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Boneblade",
+      "value": "22",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Fire Bat",
+      "value": "3",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Fire Bear",
+      "value": "3",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Fire Bunny",
+      "value": "3",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Fire Cat",
+      "value": "3",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Fire Dog",
+      "value": "3",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Fire Fox",
+      "value": "3",
+      "category": "chromas"
+    },
+    {
+      "name": "Chroma Fire Pig",
+      "value": "3",
+      "category": "chromas"
+    },
+    {
+      "name": "Blood",
+      "value": "8",
+      "category": "vintages"
+    },
+    {
+      "name": "Ghost",
+      "value": "8",
+      "category": "vintages"
+    },
+    {
+      "name": "Laser",
+      "value": "8",
+      "category": "vintages"
+    },
+    {
+      "name": "America",
+      "value": "7",
+      "category": "vintages"
+    },
+    {
+      "name": "Prince",
+      "value": "6",
+      "category": "vintages"
+    },
+    {
+      "name": "Shadow",
+      "value": "6",
+      "category": "vintages"
+    },
+    {
+      "name": "Phaser",
+      "value": "5",
+      "category": "vintages"
+    },
+    {
+      "name": "Cowboy",
+      "value": "4",
+      "category": "vintages"
+    },
+    {
+      "name": "Golden",
+      "value": "4",
+      "category": "vintages"
+    },
+    {
+      "name": "Splitter",
+      "value": "3",
+      "category": "vintages"
+    },
+    {
+      "name": "Nik's Scythe",
+      "value": "Priceless",
+      "category": "ancients"
+    },
+    {
+      "name": "Gingerscope",
+      "value": "15,250",
+      "category": "ancients"
+    },
+    {
+      "name": "Traveler's Axe",
+      "value": "7,500",
+      "category": "ancients"
+    },
+    {
+      "name": "Celestial",
+      "value": "2,200",
+      "category": "ancients"
+    },
+    {
+      "name": "Vampire's Axe",
+      "value": "1,575",
+      "category": "ancients"
+    },
+    {
+      "name": "Harvester",
+      "value": "250",
+      "category": "ancients"
+    },
+    {
+      "name": "Icepiercer",
+      "value": "160",
+      "category": "ancients"
+    },
+    {
+      "name": "Icebreaker",
+      "value": "65",
+      "category": "ancients"
+    },
+    {
+      "name": "Batwing",
+      "value": "42",
+      "category": "ancients"
+    },
+    {
+      "name": "Elderwood Scythe",
+      "value": "38",
+      "category": "ancients"
+    },
+    {
+      "name": "Swirly Axe",
+      "value": "38",
+      "category": "ancients"
+    },
+    {
+      "name": "Hallowscythe",
+      "value": "30",
+      "category": "ancients"
+    },
+    {
+      "name": "Logchopper",
+      "value": "18",
+      "category": "ancients"
+    },
+    {
+      "name": "Icewing",
+      "value": "13",
+      "category": "ancients"
+    }
+  ]
+}
