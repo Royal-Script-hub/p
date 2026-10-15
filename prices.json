@@ -2,31 +2,31 @@ Traveler's Gun:5200
 Evergun:3450
 Evergreen:2700
 Constellation:2600
-Alienbeam:1925
-Raygun:1900
+Alienbeam:2000
+Raygun:1975
 Vampire's Gun:1900
 Turkey:1850
 Darkshot:1800
 Darksword:1775
-Blossom:1280
-Sakura:1270
-Sunrise:900
+Blossom:1240
+Sakura:1230
+Sunrise:850
 Bauble:675
 Snowcannon:675
-Soul:675
-Spirit:665
+Soul:665
+Spirit:655
 Sunset:650
+Xenoknife:410
+Xenoshot:410
 Rainbow Gun:405
-Xenoknife:405
-Xenoshot:405
 Flora:400
 Rainbow:400
 Bloom:395
 Batwing:1000000
 Black Luger:1000000
 Heart Wand:340
-Blizzard:285
-Snowstorm:285
+Blizzard:275
+Snowstorm:275
 Ocean:245
 Flowerwood Gun:240
 Waves:240
@@ -811,13 +811,12 @@ Blue Pumpkin:7
 Shadow Pumpkin:5
 Nobledragon:5
 Snowbear:3
-Mechbug:3
-UFO:3
 Chilly:3
 Eyeball:3
 Fairy:3
 Green Pumpkin:3
 Jetstream:3
+Mechbug:3
 Overseer Eye:3
 Pengy:3
 Purple Pumpkin:3
@@ -826,6 +825,7 @@ Reindeer:3
 Rudolph:3
 Seahorsey:3
 Tankie:3
+UFO:3
 Vampire Bat:3
 Lil' Alien:1
 Badger:1
@@ -867,16 +867,16 @@ Bunny:N/A
 Snowman:N/A
 Ghosty:N/A
 C. Traveler's Gun:140000
-Chroma Evergun:54000
-Chroma Evergreen:40000
+Chroma Evergun:52000
+Chroma Evergreen:38000
 Chroma Bauble:29000
 C. Constellation:27000
 C. Vampire's Gun:24500
 Chroma Alienbeam:24000
-Chroma Raygun:14750
-Chroma Sunrise:10500
+Chroma Raygun:14250
+Chroma Sunrise:10000
 Chroma Snowcannon:7750
-Chroma Sunset:6750
+Chroma Sunset:6250
 Chroma Blizzard:5500
 Chroma Snowstorm:4250
 Chroma Heart Wand:3500
@@ -925,10 +925,10 @@ Cowboy:4
 Golden:4
 Splitter:3
 Nik's Scythe:Priceless
-Gingerscope:15250
-Traveler's Axe:7250
-Celestial:2150
-Vampire's Axe:1550
+Gingerscope:15000
+Traveler's Axe:7000
+Celestial:2050
+Vampire's Axe:1450
 Harvester:250
 Icepiercer:160
 Icebreaker:65
