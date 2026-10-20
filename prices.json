@@ -1,23 +1,24 @@
 Godly Traveler's Gun:5200
 Godly Evergun:3450
 Godly Evergreen:2700
-Godly Constellation:2550
-Godly Alienbeam:2025
-Godly Raygun:2000
+Godly Constellation:2500
+Godly Alienbeam:1950
+Godly Raygun:1925
 Godly Vampire's Gun:1900
 Godly Turkey:1850
-Godly Darkshot:1775
-Godly Darksword:1750
-Godly Blossom:1220
-Godly Sakura:1210
-Godly Sunrise:825
+Godly Darkshot:1725
+Godly Darksword:1700
+Godly Blossom:1200
+Godly Sakura:1190
+Godly Sunrise:800
 Godly Bauble:675
 Godly Snowcannon:675
 Godly Soul:655
 Godly Sunset:650
 Godly Spirit:645
-Godly Xenoknife:415
-Godly Xenoshot:415
+Godly Embersickle:500
+Godly Xenoknife:435
+Godly Xenoshot:435
 Godly Rainbow Gun:405
 Godly Flora:400
 Godly Rainbow:400
@@ -25,8 +26,10 @@ Godly Bloom:395
 Godly Batwing:1000000
 Godly Black Luger:1000000
 Godly Heart Wand:340
-Godly Blizzard:265
-Godly Snowstorm:265
+Godly Blizzard:255
+Godly Snowstorm:255
+Godly Immortal:250
+Godly Mortal:250
 Godly Ocean:245
 Godly Flowerwood Gun:240
 Godly Waves:240
@@ -163,6 +166,8 @@ Legendary Chromatic (Knife):1
 Legendary Icecracker:1
 Legendary Red Fire:1
 Legendary Cavern (Gun):1
+Legendary Embergun:Coming Soon!
+Legendary Emberknife:Coming Soon!
 Legendary Arctic (Knife):x4 T1 Legendaries
 Legendary Chromatic (Gun):x4 T1 Legendaries
 Legendary Cursed (Knife):x4 T1 Legendaries
@@ -243,6 +248,10 @@ Rare Aurora (Gun):1
 Rare Candy Swirl (Knife):1
 Rare Snakebite (Gun):1
 Rare Vampire (Knife):1
+Rare Catseye (Gun):Coming Soon!
+Rare Catseye (Knife):Coming Soon!
+Rare Raven:Coming Soon!
+Rare Serpent:Coming Soon!
 Rare Gingerbread (Gun):x4 T1 Legendaries
 Rare Starry (Knife):x4 T1 Legendaries
 Rare Cane (Gun):x4 T1 Legendaries
@@ -352,6 +361,12 @@ Uncommon Zombie:7
 Uncommon Snowman (Gun):5
 Uncommon Hazard (Gun):5
 Uncommon Zombie (Gun):5
+Uncommon Brew:Coming Soon!
+Uncommon Drool (Gun):Coming Soon!
+Uncommon Drool (Knife):Coming Soon!
+Uncommon Glow:Coming Soon!
+Uncommon Haunted House:Coming Soon!
+Uncommon Skelly:Coming Soon!
 Uncommon Gingerbread (Gun):3
 Uncommon Lantern:3
 Uncommon Webs:3
@@ -570,6 +585,16 @@ Common Haunted (Gun):1
 Common Haunted (Knife):1
 Common Slime (Gun):1
 Common Slime (Knife):1
+Common Bats:Coming Soon!
+Common Bombs:Coming Soon!
+Common Bramble:Coming Soon!
+Common Bullets:Coming Soon!
+Common Candy Corn:Coming Soon!
+Common CandyCorn:Coming Soon!
+Common Hexed:Coming Soon!
+Common Scarytree:Coming Soon!
+Common Skulls:Coming Soon!
+Common Wolf:Coming Soon!
 Common Apocalypse (Knife):x4 T1 Legendaries
 Common Frosted (Gun):x4 T1 Legendaries
 Common Infected (Knife):x4 T1 Legendaries
@@ -790,27 +815,32 @@ Common Static:x1 T1 Common
 Common Whiteout:x1 T1 Common
 Common Yellow:x1 T1 Common
 C. Traveler's Gun:140000
-Chroma Evergun:51000
-Chroma Evergreen:37000
+Chroma Evergun:50000
+Chroma Evergreen:36000
 Chroma Bauble:29000
 C. Constellation:27000
 C. Vampire's Gun:24500
 Chroma Alienbeam:24000
-Chroma Raygun:14000
-Chroma Sunrise:9750
+Chroma Emberscythe:14000
+Chroma Raygun:13500
+Chroma Sunrise:9250
+Chroma Emberbow:8000
 Chroma Snowcannon:7750
-Chroma Sunset:6000
 Chroma Blizzard:5500
+Chroma Sunset:5500
+Chroma Embersickle:5000
 Chroma Snowstorm:4250
 Chroma Heart Wand:3500
 Chroma Snow Dagger:2350
 Chroma Watergun:2300
+Chroma Immortal:2200
+Chroma Mortal:2200
 Chroma Icecream:1850
 Chroma Ornament:1825
 Chroma Treat:1775
 Chroma Sweet:1725
-Chroma Sands:1225
-Chroma Beachy:1175
+Chroma Sands:1250
+Chroma Beachy:1200
 Chroma Darkbringer:65
 Chroma Lightbringer:60
 Chroma Luger:50
@@ -848,10 +878,12 @@ Vintage Cowboy:4
 Vintage Golden:4
 Vintage Splitter:3
 Ancient Nik's Scythe:Priceless
-Ancient Gingerscope:14750
-Ancient Traveler's Axe:7100
-Ancient Celestial:2000
-Ancient Vampire's Axe:1400
+Ancient Gingerscope:14500
+Ancient Traveler's Axe:7300
+Ancient Emberscythe:2500
+Ancient Emberbow:1950
+Ancient Celestial:1950
+Ancient Vampire's Axe:1350
 Ancient Harvester:250
 Ancient Icepiercer:160
 Ancient Icebreaker:65
