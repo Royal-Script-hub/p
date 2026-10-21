@@ -2,21 +2,20 @@ Godly Traveler's Gun:5200
 Godly Evergun:3450
 Godly Evergreen:2700
 Godly Constellation:2500
-Godly Alienbeam:1950
-Godly Raygun:1925
+Godly Alienbeam:1925
 Godly Vampire's Gun:1900
+Godly Raygun:1900
 Godly Turkey:1850
-Godly Darkshot:1725
-Godly Darksword:1700
-Godly Blossom:1200
-Godly Sakura:1190
+Godly Darkshot:1700
+Godly Darksword:1675
+Godly Blossom:1190
+Godly Sakura:1180
 Godly Sunrise:800
 Godly Bauble:675
 Godly Snowcannon:675
 Godly Soul:655
 Godly Sunset:650
 Godly Spirit:645
-Godly Embersickle:500
 Godly Xenoknife:435
 Godly Xenoshot:435
 Godly Rainbow Gun:405
@@ -26,14 +25,15 @@ Godly Bloom:395
 Godly Batwing:1000000
 Godly Black Luger:1000000
 Godly Heart Wand:340
-Godly Blizzard:255
-Godly Snowstorm:255
-Godly Immortal:250
-Godly Mortal:250
+Godly Blizzard:250
+Godly Snowstorm:250
 Godly Ocean:245
 Godly Flowerwood Gun:240
 Godly Waves:240
 Godly Flowerwood:235
+Godly Embersickle:225
+Godly Immortal:200
+Godly Mortal:200
 Godly Snow Dagger:175
 Godly Icecream:155
 Godly Treat:155
@@ -42,8 +42,8 @@ Godly Sweet:150
 Godly Borealis:145
 Godly Australis:140
 Godly Bat:125
-Godly Beachy:85
-Godly Sands:85
+Godly Beachy:90
+Godly Sands:90
 Godly Pearlshine:80
 Godly Candy:80
 Godly Pearl:75
@@ -815,32 +815,32 @@ Common Static:x1 T1 Common
 Common Whiteout:x1 T1 Common
 Common Yellow:x1 T1 Common
 C. Traveler's Gun:140000
-Chroma Evergun:50000
-Chroma Evergreen:36000
+Chroma Evergun:49000
+Chroma Evergreen:35000
 Chroma Bauble:29000
 C. Constellation:27000
 C. Vampire's Gun:24500
 Chroma Alienbeam:24000
 Chroma Emberscythe:14000
-Chroma Raygun:13500
-Chroma Sunrise:9250
+Chroma Raygun:13250
+Chroma Sunrise:9000
 Chroma Emberbow:8000
 Chroma Snowcannon:7750
 Chroma Blizzard:5500
 Chroma Sunset:5500
-Chroma Embersickle:5000
 Chroma Snowstorm:4250
+Chroma Embersickle:3500
 Chroma Heart Wand:3500
 Chroma Snow Dagger:2350
 Chroma Watergun:2300
-Chroma Immortal:2200
-Chroma Mortal:2200
+Chroma Immortal:2000
+Chroma Mortal:2000
 Chroma Icecream:1850
 Chroma Ornament:1825
 Chroma Treat:1775
 Chroma Sweet:1725
-Chroma Sands:1250
-Chroma Beachy:1200
+Chroma Sands:1300
+Chroma Beachy:1250
 Chroma Darkbringer:65
 Chroma Lightbringer:60
 Chroma Luger:50
@@ -879,11 +879,11 @@ Vintage Golden:4
 Vintage Splitter:3
 Ancient Nik's Scythe:Priceless
 Ancient Gingerscope:14500
-Ancient Traveler's Axe:7300
-Ancient Emberscythe:2500
-Ancient Emberbow:1950
+Ancient Traveler's Axe:7500
 Ancient Celestial:1950
-Ancient Vampire's Axe:1350
+Ancient Emberscythe:1800
+Ancient Emberbow:1700
+Ancient Vampire's Axe:1325
 Ancient Harvester:250
 Ancient Icepiercer:160
 Ancient Icebreaker:65
